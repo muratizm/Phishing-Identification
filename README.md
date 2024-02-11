@@ -160,7 +160,7 @@ The script sets up a web service where users can upload HTML files, and the appl
 
 # ![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.006.png)<a name="_toc155284927"></a>**3 System Flow Chart**
+[System Flow Chart](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.006.png)<a name="_toc155284927"></a>**3 System Flow Chart**
 
 
 
@@ -197,19 +197,19 @@ Sbert:
 
 ![metin, yazı tipi, ekran görüntüsü içeren bir resim
 
-[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.009.jpeg)
+[Sbert Results](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.009.jpeg)
 
 Electra:
 
 ![metin, yazı tipi, ekran görüntüsü içeren bir resim
 
-[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.010.jpeg)
+[Electra Results](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.010.jpeg)
 
 Xlm-roberta
 
 ![metin, yazı tipi, ekran görüntüsü içeren bir resim
 
-[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.011.jpeg)
+[Xlm-roberta Results](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.011.jpeg)
 
 # <a name="_toc155284930"></a>**6 Conclusions and Insights**
 
