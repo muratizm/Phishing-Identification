@@ -187,7 +187,7 @@ Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0f
 
 ![metin, ekran görüntüsü, yazı tipi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.008.png)
+[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.008.png)
 # <a name="_toc155284929"></a>**5 Results**
 As you can see below, our model results highlight a commendable effort in addressing phishing threats. Across various embedding models and ML algorithms, our system consistently demonstrates high accuracy, precision, and recall. The Sbert model, when integrated with both XGBoost and CatBoost, particularly stands out for its robust performance. Additionally, our detailed approach in data preparation, feature extraction, and model evaluation showcases a methodical understanding of the problem.
 
@@ -197,19 +197,19 @@ Sbert:
 
 ![metin, yazı tipi, ekran görüntüsü içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.009.jpeg)
+[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.009.jpeg)
 
 Electra:
 
 ![metin, yazı tipi, ekran görüntüsü içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.010.jpeg)
+[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.010.jpeg)
 
 Xlm-roberta
 
 ![metin, yazı tipi, ekran görüntüsü içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.011.jpeg)
+[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.011.jpeg)
 
 # <a name="_toc155284930"></a>**6 Conclusions and Insights**
 
