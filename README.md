@@ -49,11 +49,6 @@ Phishing, as one of the most popular forms of cyber threats, involves deceptive 
 
 
 
-[](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.002.png)![metin, ekran görüntüsü, yazı tipi, sayı, numara içeren bir resim
-
-[](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.003.png)
-
-
 
 In the realm of cybersecurity, defending against phishing is crucial. This mission aims to create a comprehensive threat intelligence system by leveraging Machine Learning (ML) and Natural Language Processing (NLP) techniques. The aim is to distinguish phishing web pages from legitimate ones by understanding subtle semantic differences. 
 
@@ -78,9 +73,7 @@ Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0f
 
 The key functions involve copying HTML files to destination folders based on specific conditions. 
 
-![metin, ekran görüntüsü, yazı tipi içeren bir resim
 
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.005.png)
 
 This process is very important because of ensuring the dataset is properly formatted for subsequent machine learning tasks.
 
@@ -177,18 +170,12 @@ The script sets up a web service where users can upload HTML files, and the appl
 
 `   `After parcing the html files, we encountered lots of same data which will be a problem while training because in ML models if you test an already trained data this outcome is untrustfull and could lead to overtraining. Thats why we removed the recurring ones and used only unique data.
 
-![metin, yazı tipi, ekran görüntüsü içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.007.png)
-
 
 **3- Explanation for the Use of Sleeps and Resetting Translator Object:**
 
 `    `While using googletrans lib, we encountered so many website errors mainly 429 too much request. So inorder to use the lib, we first splitted our data into two parts that one is bigger than 4900 chars and one is smaller, than later if its smaller it will get translated and the program will go to sleep for 1/10 secs inorder to not spam and after 200 data that has been translated we reset the translator to not get ip ban for a day, if its bigger than 4900 chars we split into parts that has 4900 chars and translate seperately and concatenate it.
 
-![metin, ekran görüntüsü, yazı tipi içeren bir resim
 
-[Açıklama otomatik olarak oluşturuldu](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.008.png)
 # <a name="_toc155284929"></a>**5 Results**
 As you can see below, our model results highlight a commendable effort in addressing phishing threats. Across various embedding models and ML algorithms, our system consistently demonstrates high accuracy, precision, and recall. The Sbert model, when integrated with both XGBoost and CatBoost, particularly stands out for its robust performance. Additionally, our detailed approach in data preparation, feature extraction, and model evaluation showcases a methodical understanding of the problem.
 
@@ -196,19 +183,20 @@ Addressing challenges, such as evolving phishing techniques, will be a focal poi
 
 Sbert:
 
-![metin, yazı tipi, ekran görüntüsü içeren bir resim
+![Sbert
 
 [Sbert Results](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.009.jpeg)
 
 Electra:
 
-![metin, yazı tipi, ekran görüntüsü içeren bir resim
+![Electra
 
 [Electra Results](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.010.jpeg)
 
 Xlm-roberta
 
-![metin, yazı tipi, ekran görüntüsü içeren bir resim
+![Xlm-roberta
+
 
 [Xlm-roberta Results](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.011.jpeg)
 
