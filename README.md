@@ -1,33 +1,14 @@
-## ** 
-**HACETTEPE UNIVERSITY**
 
-**COMPUTER ENGINEERING**
-**
+#***HACETTEPE UNIVERSITY***#
 
-
-** 
-
-**BBM 465** 
-
-**Information Security Laboratory**
-
-**Assignment 4 Report**
-**
-
-**
+#***COMPUTER ENGINEERING***#
 
 
-` `**![çizim, taslak, kırpıntı çizim, grafik içeren bir resim
-
-Açıklama otomatik olarak oluşturuldu](Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.001.png)**
-
-
-**Group 13**
 
 **Özgür Demirhat - 2200356070** 
 
 **Murat Beder - 21945891**
-**
+
 
 
 
