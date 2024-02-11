@@ -1,7 +1,7 @@
 
-#***HACETTEPE UNIVERSITY***#
+#***HACETTEPE UNIVERSITY***
 
-#***COMPUTER ENGINEERING***#
+#***COMPUTER ENGINEERING***
 
 
 
@@ -158,7 +158,8 @@ The script sets up a web service where users can upload HTML files, and the appl
   - The Flask app runs on port 5050.
 
 
-# ![metin, diyagram, ekran görüntüsü, çizgi içeren bir resim
+# ![System Flow Chart
+
 
 [System Flow Chart](./readmeimages/Aspose.Words.54d7a36f-0fcb-4cb3-946b-cbb1fdbcb469.006.png)<a name="_toc155284927"></a>**3 System Flow Chart**
 
